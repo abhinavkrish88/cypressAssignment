@@ -9,7 +9,7 @@ npm install
 ## 2. How to run the Test
 
 ```javascript
-npx cypress run 
+npx cypress run --headed chrome
 ```
 
 
